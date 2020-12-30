@@ -37,8 +37,4 @@ for i in text:
     else:    
         keyboard.press_and_release(i)
     time.sleep(0.1)
-
-
-
-
-
+    
